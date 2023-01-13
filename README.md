@@ -1,5 +1,5 @@
 # MicroPython-FOC
-Unofficial port of simplefoc  to  micropython
+Port of simplefoc  to  micropython
 
 
 
